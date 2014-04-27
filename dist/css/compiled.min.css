@@ -20,7 +20,7 @@ div {
   margin: 0;
   padding: 0;
   font-family: 'Jura';
-  font-size: 2.2em;
+  font-size: 1.8em;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -46,7 +46,7 @@ div {
 #welcome,
 #project {
   position: absolute;
-  left: 141px;
+  left: 95px;
 }
 
 #prompt-2 {
@@ -65,8 +65,8 @@ div {
 
 ul {
   position: absolute;
-  top: 480px;
-  left: 83px;
+  top: 350px;
+  left: 96px;
   margin: 0;
   padding: 0;
   font-size: 2em;
@@ -88,4 +88,21 @@ a:visited {
   text-decoration: none;
   padding-bottom: 1px;
   border-bottom: 1px solid #fff;
+}
+
+@media all and (min-width: 65em) {
+  div {
+    font-size: 2.2em;
+  }
+
+  #welcome,
+  #project {
+    position: absolute;
+    left: 141px;
+  }
+
+  ul {
+    top: 480px;
+    left: 83px;
+  }
 }
