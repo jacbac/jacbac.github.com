@@ -98,6 +98,7 @@ a:visited {
     ul {
         top: 350px;
         left: 96px;
+        font-size: 1.6em;
     }
 }
 
@@ -114,6 +115,7 @@ a:visited {
 
     ul {
         top: 480px;
-        left: 83px;
+        left: 143px;
+        font-size: 2em;
     }
 }
