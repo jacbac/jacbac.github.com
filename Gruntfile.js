@@ -44,7 +44,7 @@ module.exports = function (grunt) {
         },
 
         // Clean pre-compiled files
-        clean: ['dist/css/main.css', 'dist/css/bootstrap.css', 'dist/js/main.js'],
+        clean: ['dist/css/main.css', 'dist/js/main.js'],
 
         // Clean pre-compiled files
         watch: {

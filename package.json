@@ -1,9 +1,8 @@
 {
-  "name": "cafe_panique",
+  "name": "jacbac_github_com",
   "version": "0.5.0",
-  "description": "Café du commerce",
+  "description": "",
   "author": "jacbac",
-  "license": "MIT",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
